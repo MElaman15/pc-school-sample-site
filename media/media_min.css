@@ -1,0 +1,1831 @@
+@media only screen and (max-width: 2000px) {
+
+    section.main {
+        height: 100vh;
+    }
+
+    section.main header .links a {
+        font-size: 22px;
+    }
+
+    section.main header .log_in button {
+        font-size: 20px;
+    }
+
+    section.main .container p.title {
+        font-size: 4.5em;
+    }
+
+    section.main .container .fake_date .item {
+        font-size: 5.5em;
+        padding: 50px;
+    }
+
+    section.main .container .fake_date .item p {
+        font-size: 25px;
+    }
+
+    section.main .container .fake_date {
+        margin-top: 150px;
+    }
+
+    .some_info .order button,
+    .some_info .statistic .all_students,
+    .some_info .money_info .earn,
+    .some_info .money_info .zero_hero p,
+    .some_info .money_info .zero_hero,
+    .footer p,
+    .footer .subscribe button {
+        font-size: 24px;
+    }
+
+    section.about .our_work p.txt {
+        line-height: 1.5;
+        font-size: 25px;
+    }
+
+    section.about .box {
+        width: 500px;
+        height: 500px;
+    }
+
+    section.about .our_work p.title {
+        font-size: 60px;
+    }
+
+    section.result_info .box p,
+    section.more_info p.title,
+    section.more_info .partners .title p,
+    section.learn_program .box_title p.title,
+    .footer h1 {
+        font-size: 55px;
+    }
+
+    section.result_info p.cs_rs {
+        font-size: 24px;
+    }
+
+    section.result_info .result_box .box .item {
+        width: 470px;
+    }
+
+    section.result_info .result_box .percent {
+        justify-content: space-around;
+    }
+
+    section.result_info .result_box .txt p {
+        font-size: 18px;
+        margin: 0 15px;
+    }
+
+    section.more_info .box .item img {
+        width: 150px;
+    }
+
+    section.more_info .box p {
+        width: 45%;
+        font-size: 24px;
+    }
+
+    section.more_info .box span {
+        font-size: 18px;
+    }
+
+    section.more_info .partners .logo img {
+        width: 70%;
+    }
+
+    section.learn_program {
+        margin-top: 150px;
+    }
+
+    section.learn_program .box_title p.info {
+        font-size: 22px;
+        width: 30%;
+    }
+
+    section.learn_program .statistic .item {
+        font-size: 22px;
+    }
+
+    section.learn_program .statistic .line {
+        width: 8px;
+        height: 900px;
+    }
+
+    .teachers .teachers_info .item img {
+        width: 250px;
+    }
+
+    .teachers .teachers_info .item p.name {
+        font-size: 30px;
+    }
+
+    .teachers .teachers_info .item p.profession {
+        font-size: 22px;
+    }
+
+    .teachers .teachers_info .item button {
+        padding: 15px 25px;
+        font-size: 22px;
+    }
+
+    .footer .subscribe input {
+        padding: 20px;
+        width: 500px;
+        font-size: 25px;
+    }
+
+    .footer .soc_ic {
+        width: 400px;
+        height: 100px;
+    }
+}
+
+@media only screen and (max-width: 1681px) {
+    section.about .our_work p.title {
+        font-size: 55px;
+    }
+
+    section.about .our_work p.txt {
+        font-size: 23px;
+    }
+
+    section.about .our_work {
+        width: 40%;
+    }
+}
+
+@media only screen and (max-width: 1440px) {
+    section.main .container p.title {
+        font-size: 4em;
+    }
+
+    .teachers .teachers_info .item img {
+        width: 230px;
+    }
+
+    .teachers {
+        padding: 0 100px;
+    }
+}
+
+@media only screen and (max-width: 1348px) {
+    section.about .our_work p.title {
+        font-size: 50px;
+    }
+}
+
+@media only screen and (max-width: 1313px) {
+    section.main .container p.title {
+        width: 60%;
+    }
+
+    section.main .container .fake_date .item {
+        font-size: 4.5em;
+    }
+
+    section.main header .links a {
+        font-size: 20px;
+    }
+
+    section.main .container .fake_date .item {
+        padding: 40px;
+    }
+
+    .teachers {
+        padding: 0 50px;
+    }
+}
+
+@media only screen and (max-width: 1268px) {
+
+    .some_info .order button,
+    .some_info .statistic .all_students,
+    .some_info .money_info .earn,
+    .some_info .money_info .zero_hero p,
+    .some_info .money_info .zero_hero {
+        font-size: 22px;
+    }
+}
+
+@media only screen and (max-width: 1225px) {
+    section.about .our_work p.title {
+        font-size: 47px;
+    }
+
+    section.about .our_work p.txt {
+        line-height: 1.3;
+    }
+
+    .teachers .teachers_info .item button {
+        padding: 10px 25px;
+    }
+}
+
+@media only screen and (max-width: 1164px) {
+    .rt3 {
+        margin-left: 80px;
+    }
+
+    .teachers {
+        padding: 0px;
+    }
+}
+
+@media only screen and (max-width: 1152px) {
+    section.about .our_work {
+        width: 45%;
+    }
+
+    section.about .box {
+        width: 450px;
+        height: 450px;
+    }
+}
+
+@media only screen and (max-width: 1144px) {
+
+    section.main .container p.title,
+    section.main .container .fake_date .item {
+        font-size: 3.5em;
+    }
+
+    section.main header .log_in button {
+        font-size: 18px;
+    }
+}
+
+@media only screen and (max-width: 1060px) {
+    section.more_info .partners {
+        padding: 0 100px;
+    }
+
+    section.result_info p.cs_rs {
+        width: 60%;
+    }
+}
+
+@media only screen and (max-width: 1040px) {
+
+    section.main .container p.title,
+    section.main .container .fake_date .item {
+        font-size: 3em;
+    }
+
+
+    section.learn_program .box_title p.info {
+        width: 80%;
+    }
+}
+
+
+@media only screen and (max-width: 1024px) {
+    section.about .our_work p.title {
+        font-size: 45px
+    }
+
+    section.about .our_work p.txt {
+        font-size: 20px;
+    }
+
+    .teachers .teachers_info .item img {
+        width: 220px;
+    }
+
+    .teachers .teachers_info .item p.name {
+        font-size: 28px;
+    }
+
+    .teachers .teachers_info .item p.profession {
+        font-size: 20px;
+    }
+}
+
+@media only screen and (max-width: 1002px) {
+    section.more_info .partners {
+        padding: 0 90px;
+    }
+
+    section.more_info .partners .title p {
+        font-size: 46px;
+    }
+}
+
+
+@media only screen and (max-width: 991px) {
+    section.main .container p.title {
+        width: 60%;
+    }
+
+    section.main .container .fake_date {
+        margin-top: 100px;
+    }
+
+    section.more_info .partners .logo img {
+        width: 80%;
+    }
+}
+
+@media only screen and (max-width: 985px) {
+    section.about .box {
+        width: 400px;
+        height: 400px;
+    }
+
+    section.about .our_work {
+        width: 50%;
+    }
+}
+
+@media only screen and (max-width: 975px) {
+    .teachers {
+        padding: 0 20px;
+    }
+
+    .some_info .order button {
+        padding: 10px 20px;
+    }
+}
+
+
+@media only screen and (max-width: 963px) {
+    section.main header .links a {
+        font-size: 18px;
+    }
+}
+
+@media only screen and (max-width: 953px) {
+    section.more_info .partners .title p {
+        font-size: 44px;
+    }
+
+    section.result_info p.cs_rs {
+        font-size: 20px;
+    }
+}
+
+@media only screen and (max-width: 933px) {
+    section.main .container p.title {
+        width: 65%;
+    }
+
+    section.main header .log_in button {
+        padding: 7px 15px;
+    }
+
+    .teachers .teachers_info {
+        justify-content: space-between;
+    }
+}
+
+@media only screen and (max-width: 926px) {
+    section.more_info .partners .title p {
+        font-size: 42px;
+    }
+
+    section.more_info .partners {
+        padding: 0 70px;
+    }
+}
+
+@media only screen and (max-width: 912px) {
+
+    .some_info .order button,
+    .some_info .statistic .all_students,
+    .some_info .money_info .earn,
+    .some_info .money_info .zero_hero p,
+    .some_info .money_info .zero_hero {
+        font-size: 20px;
+    }
+}
+
+@media only screen and (max-width: 907px) {
+    section.result_info .result_box .txt p {
+        margin: 0 10px;
+    }
+}
+
+@media only screen and (max-width: 901px) {
+    section.main .container p.title {
+        font-size: 2.8em;
+    }
+
+    section.main header .links a {
+        font-size: 15.5px;
+    }
+
+    .teachers .teachers_info .item p.profession {
+        font-size: 18px;
+    }
+
+    .teachers .teachers_info .item button {
+        padding: 10px 20px;
+    }
+
+    .teachers .teachers_info .item p.name {
+        font-size: 25px;
+    }
+
+    .teachers .teachers_info .item img {
+        width: 210px;
+    }
+}
+
+@media only screen and (max-width: 898px) {
+    section.main header .links a {
+        font-size: 16px;
+    }
+}
+
+@media only screen and (max-width: 888px) {
+    section.about .our_work p.title {
+        font-size: 40px;
+    }
+
+    section.about .our_work p.txt {
+        font-size: 18px;
+    }
+
+    section.about .box {
+        width: 370px;
+        height: 370px;
+    }
+
+    section.about .container {
+        justify-content: space-around;
+    }
+}
+
+@media only screen and (max-width: 873px) {
+    .some_info .money_info .goal {
+        width: 350px;
+    }
+}
+
+@media only screen and (max-width: 861px) {
+    section.result_info {
+        padding: 0 30px;
+    }
+
+    section.more_info .box p {
+        width: 60%;
+    }
+
+    .rt2 {
+        width: 70px;
+    }
+
+    .footer p{
+        width: 70%;
+    }
+
+    .footer .subscribe input{
+        width: 450px;
+        padding: 16px;
+    }
+
+    .footer .soc_ic{
+        width: 350px;
+    }
+
+    .footer h1{
+        font-size: 48px;
+    }
+}
+
+@media only screen and (max-height: 850px) {
+    section.main .container .fake_date {
+        margin-top: 100px;
+    }
+
+    section.main {
+        height: fit-content;
+    }
+}
+
+@media only screen and (max-width: 846px) {
+    section.main .container p.title {
+        width: 70%;
+    }
+
+    section.main .container {
+        margin: 100px 125px;
+    }
+
+    section.main header .log_in button {
+        font-size: 15px;
+    }
+
+    .some_info .statistic ._margin {
+        margin: 12px;
+    }
+
+    .some_info {
+        justify-content: space-evenly;
+    }
+}
+
+@media only screen and (max-width: 821px) {
+    section.main header .links a {
+        margin: 0 13px;
+        font-size: 15px;
+    }
+
+    section.about .our_work p.title {
+        font-size: 35px;
+    }
+}
+
+@media only screen and (max-width: 810px) {
+    .some_info .money_info .goal {
+        width: 360px;
+    }
+}
+
+@media only screen and (max-width: 806px) {
+    section.more_info .partners .title p {
+        font-size: 40px;
+    }
+}
+
+@media only screen and (max-width: 800px) {
+    section.main .container {
+        margin: 100px;
+    }
+
+    section.result_info .result_box {
+        display: none;
+    }
+
+    section.result_info .result_box .percent p {
+        font-size: 32px;
+    }
+
+    section.main header .links a {
+        font-size: 13px;
+    }
+
+    .result_box__mb {
+        text-align: center;
+        display: block;
+    }
+
+    .result_box__mb p {
+        color: #fff;
+        position: relative;
+        font-size: 33px;
+        margin-top: 30px;
+        margin-bottom: 50px;
+    }
+
+    .result_box__mb p::before {
+        content: '';
+        width: var(--width);
+        height: 40px;
+        position: absolute;
+        background: linear-gradient(94.26deg, #C89AFC 9.51%, #7C6AFA 90.23%);
+        top: 44px;
+        left: 50%;
+        transform: translate(-50%);
+        -webkit-transform: translate(-50%);
+        -moz-transform: translate(-50%);
+        -ms-transform: translate(-50%);
+        -o-transform: translate(-50%);
+
+        border-radius: 3px;
+        -webkit-border-radius: 3px;
+        -moz-border-radius: 3px;
+        -ms-border-radius: 3px;
+        -o-border-radius: 3px;
+    }
+
+    .some_info .order button,
+    .some_info .statistic .all_students,
+    .some_info .money_info .earn,
+    .some_info .money_info .zero_hero p,
+    .some_info .money_info .zero_hero {
+        font-size: 18px;
+    }
+
+    .some_info .money_info .goal {
+        width: 300px;
+    }
+
+    section.about .our_work {
+        width: 45%;
+    }
+
+    section.about .our_work p.txt {
+        font-size: 16px;
+    }
+}
+
+@media only screen and (max-width: 789px) {
+    section.more_info .box span {
+        width: 75%;
+    }
+
+    .teachers .teachers_info .item p.name {
+        margin-bottom: 12px;
+        font-size: 22px;
+    }
+
+    .teachers .teachers_info .item img {
+        width: 170px;
+    }
+
+    .teachers {
+        padding: 0px;
+    }
+
+    .rt3 {
+        margin-left: 25px;
+    }
+
+    section.learn_program .statistic p {
+        width: 60%;
+    }
+
+    .teachers .teachers_info .item p.profession {
+        font-size: 16px;
+    }
+
+    .teachers .teachers_info .item button {
+        font-size: 20px;
+    }
+
+    .mb__ml {
+        margin: 0 20px;
+    }
+}
+
+@media only screen and (max-width: 778px) {
+    section.more_info .partners {
+        padding: 0 60px;
+    }
+}
+
+@media only screen and (max-width: 762px) {
+    .some_info .money_info .goal {
+        width: 310px;
+    }
+
+    section.more_info .partners .title p {
+        font-size: 38px;
+    }
+
+    .some_info .statistic .all_students,
+    .some_info .money_info .earn,
+    .some_info .money_info .zero_hero p {
+        font-size: 15px;
+    }
+
+    section.about .our_work p.title {
+        text-align: center;
+        font-size: 40px;
+    }
+
+    section.about .our_work p.txt {
+        font-size: 15px;
+        margin-top: 30px;
+    }
+}
+
+@media only screen and (max-width: 754px) {
+    section.main header .log_in button {
+        font-size: 14px;
+    }
+
+    section.main header .links a {
+        margin: 0 12px;
+    }
+
+    section.main .container {
+        margin: 100px 60px;
+    }
+}
+
+@media only screen and (max-width: 736px) {
+    section.more_info .box p {
+        font-size: 18px;
+    }
+
+    section.more_info .box span {
+        width: 80%;
+    }
+
+    .rt2 {
+        width: 60px;
+        height: 50px;
+    }
+
+    section.more_info .partners .logo img {
+        width: 650px;
+    }
+
+    section.about .box {
+        width: 340px;
+        height: 340px;
+    }
+}
+
+@media only screen and (max-width: 719px) {
+    .some_info .order button {
+        padding: 10px 15px;
+    }
+
+    section.result_info p.cs_rs {
+        width: 80%;
+    }
+}
+
+@media only screen and (max-width: 710px) {
+    section.main header .links a {
+        margin: 0 12px;
+    }
+
+    section.main .container .fake_date .item {
+        padding: 30px;
+    }
+
+    section.result_info p.cs_rs {
+        margin-bottom: 30px;
+    }
+
+    section.main .container {
+        margin: 100px 75px;
+    }
+
+    section.main header .log_in button {
+        font-size: 13px;
+    }
+
+    .some_info .order button {
+        padding: 10px 20px;
+        font-size: 15px;
+    }
+
+    .mb__ml {
+        margin: 0 10px;
+    }
+}
+
+
+@media only screen and (max-width: 688px) {
+    section.main header .links a {
+        margin: 0 10px;
+    }
+
+    section.main header .log_in button {
+        padding: 7px 12px;
+    }
+
+    section.about .container {
+        flex-direction: column;
+    }
+
+    section.about .our_work {
+        width: 60%;
+        text-align: center;
+    }
+
+    section.about .our_work p.title {
+        font-size: 40px;
+        margin-top: 60px;
+    }
+
+    section.about .our_work p.txt {
+        margin-top: 40px;
+        line-height: 1.5;
+    }
+
+    section.about .box {
+        width: 390px;
+        height: 390px;
+    }
+
+    .teachers .teachers_info .item img {
+        width: 160px;
+    }
+
+    .teachers .teachers_info .item p.name {
+        font-size: 20px;
+    }
+
+    .teachers .teachers_info .item p.profession {
+        font-size: 15px;
+    }
+
+    .teachers .teachers_info .item button {
+        font-size: 18px;
+    }
+}
+
+@media only screen and (max-width: 675px) {
+    .teachers .teachers_info .item {
+        width: 250px;
+    }
+
+    .teachers .teachers_info {
+        flex-wrap: wrap;
+    }
+
+    .teachers .box_title p {
+        font-size: 45px;
+    }
+
+    .rt3 {
+        width: 70px;
+    }
+
+    .teachers .teachers_info {
+        justify-content: space-evenly;
+    }
+
+    .teachers .teachers_info .item img {
+        width: 190px;
+    }
+
+    .mb__mt {
+        margin: 80px 0;
+    }
+
+    .teachers .teachers_info .item:nth-child(3) {
+        margin: 0px;
+    }
+
+    .teachers .teachers_info .item p.name {
+        font-size: 24px;
+    }
+
+    .teachers .teachers_info .item p.profession {
+        font-size: 16px;
+    }
+
+    .teachers .teachers_info .item button {
+        font-size: 20px;
+    }
+
+    .mb__ml {
+        margin: 0;
+    }
+}
+
+@media only screen and (max-width: 662px) {
+    section.main .container p.title {
+        font-size: 2.7em;
+    }
+
+    section.main .container .fake_date .item {
+        padding: 30px;
+    }
+
+    section.main header .log_in button {
+        padding: 7px 10px;
+    }
+
+    section.main header .links a {
+        margin: 0px 8px;
+    }
+
+    .some_info .money_info .goal {
+        width: 290px;
+    }
+
+    .some_info .statistic .all_students,
+    .some_info .money_info .earn,
+    .some_info .money_info .zero_hero p {
+        font-size: 14px;
+    }
+
+
+    section.more_info .box span {
+        width: 100%;
+    }
+
+    section.more_info .box p {
+        width: 75%;
+    }
+
+    section.more_info .box .item {
+        width: 300px;
+    }
+
+    section.more_info .box {
+        flex-wrap: wrap;
+    }
+
+    section.more_info .box .item:nth-child(3) {
+        margin-top: 50px;
+    }
+
+    section.more_info .partners .logo img {
+        width: 600px;
+    }
+
+    section.more_info .partners .title p {
+        font-size: 36px;
+    }
+
+    section.more_info .partners {
+        padding: 0 25px;
+    }
+
+    section.more_info .box .item img {
+        width: 100px;
+    }
+}
+
+@media only screen and (max-width: 638px) {
+    section.main .container p.title {
+        font-size: 2.6em;
+    }
+
+    section.main .container .fake_date .item {
+        padding: 25px;
+    }
+
+    .some_info .money_info .goal {
+        width: 250px;
+    }
+}
+
+@media only screen and (max-width: 630px) {
+    section.main header .links a {
+        margin: 0 5px;
+    }
+
+    section.main .container p.title {
+        font-size: 2.5em;
+    }
+
+    .some_info .statistic .all_students,
+    .some_info .money_info .earn,
+    .some_info .money_info .zero_hero p {
+        font-size: 13px;
+    }
+
+    .footer .subscribe input{
+        width: 400px;
+    }
+
+    .footer .subscribe button{
+        font-size: 22px;
+    }
+}
+
+@media only screen and (max-width: 620px) {
+    .teachers .box_title p {
+        font-size: 40px;
+    }
+
+    .rt1 {
+        width: 96px;
+    }
+
+    section.result_info .box p {
+        font-size: 45px;
+    }
+
+    section.learn_program .statistic p {
+        width: 70%;
+    }
+}
+
+@media only screen and (max-width: 603px) {
+    section.main .container p.title {
+        font-size: 2.3em;
+    }
+
+    section.main header .log_in button {
+        padding: 5px 8px;
+    }
+
+    section.main header .links a {
+        font-size: 12.5px;
+    }
+
+    section.main .container .fake_date .item {
+        font-size: 40px;
+    }
+
+    section.main .container .fake_date .item p {
+        font-size: 18px;
+    }
+
+    section.main .container {
+        margin: 85px 65px;
+    }
+
+    .some_info {
+        flex-direction: column;
+    }
+
+    .statistic:nth-child(1) {
+        margin: 30px 0;
+    }
+
+    .some_info .statistic .all_students {
+        font-size: 20px !important;
+    }
+
+    .some_info .money_info .goal {
+        width: 450px;
+    }
+
+    .some_info .order button {
+        padding: 20px 25px;
+        font-size: 20px;
+        margin-bottom: 20px;
+    }
+
+    section.more_info .box {
+        margin-top: 50px;
+    }
+
+    section.more_info .partners .logo img {
+        width: 550px;
+    }
+
+    section.more_info .partners .title p {
+        font-size: 34px;
+    }
+
+    section.more_info .box .item {
+        width: 230px;
+        margin: 0 15px;
+    }
+
+    .money_info {
+        margin-top: 30px;
+    }
+
+    .money_info span,
+    .money_info p {
+        font-size: 20px;
+    }
+
+    .footer p{
+        font-size: 20px;
+    }
+
+    .footer h1{
+        font-size: 42px;
+    }
+}
+
+@media only screen and (max-width: 576px) {
+    section.main {
+        padding: 10px 0;
+    }
+
+    section.learn_program .statistic .line {
+        height: 800px;
+    }
+
+    section.main header .links a,
+    section.main header .log_in button {
+        font-size: 12px;
+    }
+
+    section.main .container p.title {
+        font-size: 2em;
+    }
+}
+
+@media only screen and (max-width: 569px) {
+    section.learn_program .box_title p.title {
+        font-size: 46px;
+    }
+
+    section.learn_program .box_title p.info {
+        width: 60%;
+    }
+}
+
+@media only screen and (max-width: 565px) {
+    .rt1 {
+        width: 85px;
+    }
+
+    .footer .subscribe button{
+        font-size: 20px;
+    }
+
+    .footer .subscribe input{
+        width: 350px;
+    }
+}
+
+@media only screen and (max-width: 555px) {
+    section.main .container {
+        margin: 75px 0px 65px 55px;
+    }
+
+    section.main header .links a {
+        font-size: 11px;
+    }
+
+    section.main .container .fake_date .item {
+        font-size: 35px;
+    }
+
+    section.main .container .fake_date {
+        margin-top: 80px;
+    }
+
+    section.more_info p.title {
+        font-size: 28px;
+    }
+
+    section.more_info .partners .logo img {
+        width: 500px;
+    }
+
+    section.more_info .box .item {
+        width: 200px;
+        margin: 0 18px;
+    }
+}
+
+@media only screen and (max-width: 550px) {
+    .teachers .box_title p {
+        margin-left: 20px;
+    }
+
+    .rt3 {
+        width: 60px;
+    }
+
+    section.learn_program .statistic .item {
+        font-size: 18px;
+    }
+
+    section.learn_program .box_title p.info {
+        font-size: 16px;
+    }
+}
+
+@media only screen and (max-width: 532px) {
+    section.learn_program .box_title p.title {
+        font-size: 44px;
+    }
+}
+
+@media only screen and (max-width: 528px) {
+
+    section.main header .links a,
+    section.main header .log_in button {
+        font-size: 10px;
+    }
+
+    .teachers .box_title p {
+        font-size: 36px;
+    }
+
+    .footer h1 {
+        font-size: 40px;
+    }
+
+    .footer p {
+        width: 60%;
+    }
+}
+
+@media only screen and (max-width: 515px) {
+    section.main .container {
+        margin: 75px 0px 65px 40px;
+    }
+
+    section.main .container p.title {
+        font-size: 2.5em;
+    }
+
+    section.result_info .box p {
+        font-size: 45px;
+    }
+}
+
+
+
+@media only screen and (max-width: 501px) {
+    section.learn_program .box_title p.title {
+        font-size: 40px;
+    }
+
+    section.learn_program .statistic p {
+        width: fit-content;
+    }
+
+    section.learn_program {
+        margin-top: 70px;
+    }
+
+    section.learn_program .statistic .left_box p {
+        text-align: end;
+    }
+}
+
+@media only screen and (max-width: 500px) {
+    section.more_info p.title {
+        font-size: 26px;
+    }
+
+    section.more_info .partners .logo img {
+        width: 465px;
+    }
+
+    section.more_info .partners .title p {
+        font-size: 32px;
+    }
+
+    section.about .box {
+        width: 370px;
+        height: 370px;
+    }
+
+    .footer p{
+        width: 85%;
+    }
+
+    .footer .subscribe input{
+        padding: 13px;
+        width: 300px;
+    }
+}
+
+
+@media only screen and (max-width: 493px) {
+    section.main .container p.title {
+        width: 75%;
+    }
+
+    section.about .our_work {
+        width: 80%;
+    }
+
+    .footer .subscribe input {
+        width: 290px;
+    }
+}
+
+@media only screen and (max-width: 485px) {
+    section.main header .links {
+        display: none;
+    }
+
+    section.main header .log_in {
+        display: none;
+    }
+
+    .menu__mobile i {
+        display: block !important;
+    }
+
+    section.main .container {
+        margin: 75px 0px 65px 30px;
+    }
+
+    section.main .container .fake_date .item {
+        font-size: 33px;
+    }
+}
+
+@media only screen and (max-width: 480px) {
+    .rt3 {
+        margin-left: 15px;
+    }
+}
+
+@media only screen and (max-width: 474px) {
+    section.main .container {
+        margin: 75px 0px 65px 15px;
+    }
+
+    section.about {
+        padding: 70px 0;
+    }
+
+    section.result_info .box p {
+        font-size: 40px;
+    }
+
+    section.more_info p.title {
+        font-size: 24px;
+    }
+
+    section.more_info .box .item {
+        width: 170px;
+    }
+
+    section.more_info .box p {
+        font-size: 16px;
+    }
+
+    section.more_info .box span {
+        font-size: 13px;
+    }
+}
+
+@media only screen and (max-width: 470px) {
+    .teachers .box_title p {
+        font-size: 33px;
+    }
+
+    .footer {
+        margin-top: 110px;
+    }
+
+    .footer h1 {
+        font-size: 36px;
+    }
+}
+
+@media only screen and (max-width: 469px) {
+    .teachers .teachers_info .item:nth-child(2) {
+        margin: 70px 0;
+    }
+
+    .teachers .teachers_info .item:nth-child(3) {
+        margin-top: 0px;
+    }
+
+    .teachers .teachers_info .item img {
+        width: 230px;
+    }
+
+    .teachers .teachers_info .item p.name {
+        font-size: 24px;
+    }
+}
+
+@media only screen and (max-width: 460px) {
+    section.main .container {
+        margin: 75px 0px 65px 5px;
+    }
+
+    section.main .container .fake_date .item {
+        padding: 23px;
+    }
+
+    .some_info .money_info .goal {
+        width: 390px;
+    }
+}
+
+@media only screen and (max-width: 445px) {
+    section.more_info .partners .logo img {
+        width: 425px;
+    }
+
+    section.more_info .partners .title p {
+        font-size: 30px;
+    }
+}
+
+@media only screen and (max-width: 438px) {
+    .rt3 {
+        width: 50px;
+    }
+
+    .footer .subscribe input{
+        width: 250px;
+        font-size: 20px;
+    }
+
+    .footer .subscribe button{
+        font-size: 17px;
+    }
+
+    .footer .soc_ic{
+        width: 300px;
+    }
+}
+
+@media only screen and (max-width: 435px) {
+    section.result_info .box p {
+        font-size: 38px;
+    }
+}
+
+@media only screen and (max-width: 431px) {
+    section.main .container p.title {
+        width: 100%;
+    }
+
+    section.main .container .fake_date .item {
+        padding: 18px;
+    }
+
+    section.about .box {
+        width: 370px;
+        height: 400px;
+    }
+
+    section.more_info p.title {
+        font-size: 28px;
+    }
+
+    section.learn_program .box_title p.title {
+        font-size: 36px;
+    }
+
+    section.learn_program .box_title p.info {
+        font-size: 14px;
+    }
+
+    section.learn_program .statistic p {
+        font-size: 15px;
+    }
+
+    .teachers .box_title p {
+        font-size: 38px;
+    }
+
+    .footer p {
+        width: 80%;
+    }
+
+    .footer .subscribe button {
+        font-size: 17px;
+        padding: 7px 10px;
+    }
+
+    .footer .subscribe input {
+        width: 260px;
+    }
+}
+
+
+@media only screen and (max-width: 425px) {
+    section.more_info .partners .logo img:nth-child(1) {
+        display: none;
+    }
+
+    section.more_info .partners .logo img:nth-child(2) {
+        width: 390px;
+        display: block !important;
+    }
+}
+
+@media only screen and (max-width: 420px) {
+    section.result_info .box p {
+        font-size: 35px;
+    }
+
+    .footer h1 {
+        font-size: 40px;
+        text-align: center;
+    }
+}
+
+@media only screen and (max-width: 411px) {
+    section.more_info .box .item {
+        width: 260px;
+        margin: 25px 0;
+    }
+
+    section.more_info .box p {
+        font-size: 20px;
+        width: 100%;
+    }
+
+    section.more_info .box span {
+        font-size: 16px;
+    }
+
+    section.more_info p.title {
+        font-size: 30px;
+    }
+
+    .rt2 {
+        width: 110px;
+    }
+
+    section.more_info .partners .title p {
+        font-size: 32px;
+    }
+}
+
+@media only screen and (max-width: 399px) {
+    .rt1 {
+        width: 60px;
+    }
+}
+
+@media only screen and (max-width: 393px) {
+    section.main .container .fake_date .item {
+        padding: 15px;
+    }
+
+    .some_info .money_info .goal {
+        width: 335px;
+    }
+
+    section.about .box {
+        width: 330px;
+    }
+
+    section.about .our_work p.txt {
+        font-size: 17px;
+    }
+}
+
+@media only screen and (max-width: 390px) {
+    .some_info .money_info .earn p+span {
+        font-size: 17px;
+    }
+
+    section.more_info .partners .logo img:nth-child(2) {
+        width: 340px;
+    }
+
+    .footer .subscribe button {
+        font-size: 16px;
+        padding: 7px;
+    }
+
+    .footer .subscribe input {
+        font-size: 16px;
+    }
+}
+
+@media only screen and (max-width: 383px) {
+    section.learn_program .box_title p.title {
+        font-size: 45px;
+        text-align: center;
+    }
+}
+
+@media only screen and (max-width: 379px) {
+    section.more_info .partners .title p {
+        font-size: 28px;
+    }
+}
+
+@media only screen and (max-width: 374px) {
+    section.result_info .box p {
+        font-size: 32px;
+    }
+
+    section.result_info {
+        padding: 0 20px;
+    }
+}
+
+@media only screen and (max-width: 369px) {
+    section.main .container .fake_date .item {
+        padding: 10px;
+        font-size: 30px;
+    }
+
+    .teachers .teachers_info .item img {
+        width: 210px;
+    }
+
+    .teachers .box_title p {
+        font-size: 33px;
+    }
+
+    .footer .subscribe {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .footer .subscribe input,
+    .footer .subscribe button {
+        border-radius: 20px;
+        -webkit-border-radius: 20px;
+        -moz-border-radius: 20px;
+        -ms-border-radius: 20px;
+        -o-border-radius: 20px;
+    }
+
+    .footer .subscribe input {
+        width: 300px;
+    }
+
+    .footer .subscribe button {
+        margin-top: 30px;
+        padding: 10px;
+        font-size: 18px;
+    }
+
+}
+
+@media only screen and (max-width: 355px) {
+    .footer p{
+        font-size: 16px;
+    }
+}
+
+@media only screen and (max-width: 346px) {
+    section.more_info .partners .title p {
+        font-size: 26px;
+    }
+
+    section.more_info .partners .logo img:nth-child(2) {
+        width: 300px;
+    }
+}
+
+@media only screen and (max-width: 335px) {
+    .some_info .order button {
+        padding: 15px 20px;
+        font-size: 18px;
+    }
+
+    section.result_info .box p {
+        margin-left: 15px;
+    }
+
+    .some_info .statistic .all_students {
+        font-size: 18px !important;
+    }
+
+    .some_info .money_info .goal {
+        width: 290px;
+    }
+
+    section.about .box {
+        width: 290px;
+        height: 350px;
+    }
+
+    section.more_info .partners {
+        padding: 0 10px;
+    }
+
+    section.learn_program .statistic .line {
+        width: 7px;
+    }
+
+    .teachers .box_title p {
+        margin-left: 10px;
+        font-size: 30px;
+    }
+
+    .money_info span,
+    .money_info p {
+        font-size: 16px;
+    }
+}
+
+@media only screen and (max-width: 325px) {
+    section.main .container p.title {
+        font-size: 2.3em;
+    }
+
+    section.main .container .fake_date .item {
+        padding: 7px;
+        margin: 0 7px;
+    }
+
+    .result_box__mb span {
+        font-size: 15px;
+    }
+}
+
+@media only screen and (max-width: 316px) {
+    section.main .container .fake_date .item {
+        margin: 0 5px;
+    }
+
+    .footer .soc_ic {
+        width: 260px;
+    }
+}
+
+@media only screen and (max-width: 311px) {
+    section.learn_program .statistic .line {
+        margin: 0 12px;
+    }
+}
+
+@media only screen and (max-width: 305px) {
+    section.about .box {
+        width: 255px;
+        height: 330px;
+    }
+
+    section.learn_program .statistic .line {
+        margin: 0 8px;
+    }
+
+    section.about .our_work {
+        width: 90%;
+    }
+
+    section.result_info {
+        padding: 0 15px;
+    }
+
+    .footer h1 {
+        font-size: 35px;
+    }
+
+    .footer p {
+        font-size: 14px;
+    }
+
+    .footer .subscribe input {
+        width: 265px;
+    }
+}
+
+@media only screen and (max-width: 300px) {
+    section.main .container .fake_date .item {
+        padding: 5px;
+    }
+
+    .teachers .box_title p {
+        font-size: 27px;
+    }
+
+    .rt2 {
+        width: 100px;
+    }
+
+    section.more_info .partners .title p {
+        font-size: 24px;
+    }
+
+    section.more_info .partners .logo img:nth-child(2) {
+        width: 280px;
+    }
+}
+
+@media only screen and (max-width: 298px) {
+    section.learn_program .statistic p {
+        font-size: 14px;
+    }
+}
+
+@media only screen and (max-width: 296px) {
+    section.main .container p.title {
+        font-size: 2em;
+    }
+
+    section.main .container .fake_date .item {
+        margin: 0 3px;
+    }
+
+    .some_info .money_info .goal {
+        width: 265px;
+    }
+}
+
+@media only screen and (max-width: 284px) {
+
+    section.learn_program .statistic p,
+    section.learn_program .statistic span {
+        font-size: 13px;
+    }
+}
+
+@media only screen and (max-width: 277px) {
+    .rt2 {
+        width: 60px;
+        height: 35px;
+    }
+
+    .teachers .teachers_info .item img {
+        width: 195px;
+    }
+}
+
+@media only screen and (max-width: 270px) {
+    section.main .container .fake_date .item {
+        font-size: 28px;
+        padding: 3px;
+    }
+
+    .some_info .money_info .goal {
+        width: 240px;
+    }
+
+    .some_info .statistic .all_students {
+        font-size: 16px !important;
+    }
+
+    section.about .box {
+        width: 230px;
+    }
+
+    section.about {
+        padding: 70px 0;
+    }
+
+    section.about .our_work p.title {
+        margin-top: 40px;
+    }
+
+    section.learn_program .box_title p.info {
+        width: 80%;
+    }
+
+    section.learn_program .box_title p.title {
+        font-size: 35px;
+    }
+}
